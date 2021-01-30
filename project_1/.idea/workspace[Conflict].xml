@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="project_1:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1834d21-ca0e-4048-b556-eee4299017e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_1/view/PopupConnect.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_1/view/RunFflight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_1/view/ViewController$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_1/view/ViewController$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_1/view/ViewController$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_1/view/ViewController$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_1/view/ViewController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/View.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/project_1_jar/cachManager.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/project_1_jar/cachManager.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/project_1_jar/client.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/project_1_jar/client.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_1/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project_1/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_1/model/Model$Turn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_1/model/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project_1/model/Model.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_1/view/Flight.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_1/view/FlightController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_1/view/FlightController$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_1/view/FlightController$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_1/view/FlightController$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_1/view/FlightController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_1/view/MainView.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_1/view/MainViewController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_1/view/MapDisplayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_1/view/PopupMessage.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_1/view/RunClientMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_1/viewModel/ViewModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project_1/viewModel/ViewModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Flight.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project_1/view/View.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/FlightController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/ViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/MainView.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/MainViewController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/MapDisplayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/FlightMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/PopupMessage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/PopupConnect.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/RunClientMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/RunFflight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/viewModel/ViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/viewModel/ViewModel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1nNinpUxK8yRLSZwkGUx0ru8LaL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\izik\Google Drive (izikf89@gmail.com)\degree_studies\PTM2\projects\ex5\ptm2_ex5\project_1\src\view" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RunFflight">
+    <configuration name="RunFflight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.RunFflight" />
+      <module name="project_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.ViewController" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunServerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model.server_side.RunServerMain" />
+      <module name="project_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.server_side.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunFflight" />
+        <item itemvalue="Application.RunServerMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1834d21-ca0e-4048-b556-eee4299017e2" name="Default Changelist" comment="" />
+      <created>1611237119250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611237119250</updated>
+      <workItem from="1611237120310" duration="6155000" />
+      <workItem from="1611246852399" duration="1549000" />
+      <workItem from="1611249357795" duration="26000" />
+      <workItem from="1611270105919" duration="1265000" />
+      <workItem from="1611271964006" duration="666000" />
+      <workItem from="1611273424003" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="178" width="816" height="729" key="#Intentions" timestamp="1611855344756">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="178" width="816" height="729" key="#Intentions/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611855344756" />
+    <state x="-1209" y="381" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1611272013258">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1209" y="381" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611272013258" />
+    <state x="-1230" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611240768243">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1230" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611240768243" />
+    <state width="404" height="466" key="DebuggerActiveHint" timestamp="1611870109788">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="404" height="466" key="DebuggerActiveHint/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611870109788" />
+    <state x="-1180" y="261" key="FileChooserDialogImpl" timestamp="1611273473013">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611273473013" />
+    <state width="1877" height="463" key="GridCell.Tab.0.bottom" timestamp="1611870447976">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611870447976" />
+    <state width="1877" height="138" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611825639933" />
+    <state width="1877" height="463" key="GridCell.Tab.0.center" timestamp="1611870447975">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611870447975" />
+    <state width="1877" height="138" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611825639933" />
+    <state width="1877" height="463" key="GridCell.Tab.0.left" timestamp="1611870447975">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611870447975" />
+    <state width="1877" height="138" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611825639933" />
+    <state width="1877" height="463" key="GridCell.Tab.0.right" timestamp="1611870447976">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611870447976" />
+    <state width="1877" height="138" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611825639933" />
+    <state width="1877" height="463" key="GridCell.Tab.1.bottom" timestamp="1611870432440">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611870432440" />
+    <state width="1877" height="138" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611825639621" />
+    <state width="1877" height="463" key="GridCell.Tab.1.center" timestamp="1611870432440">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611870432440" />
+    <state width="1877" height="138" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611825639621" />
+    <state width="1877" height="463" key="GridCell.Tab.1.left" timestamp="1611870432439">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611870432439" />
+    <state width="1877" height="138" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611825639621" />
+    <state width="1877" height="463" key="GridCell.Tab.1.right" timestamp="1611870432440">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611870432440" />
+    <state width="1877" height="138" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611825639621" />
+    <state x="-1459" y="165" key="SettingsEditor" timestamp="1611272032026">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611272032026" />
+    <state x="-1355" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1611861253236">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1355" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611861253236" />
+    <state x="-1060" y="256" key="extract.method.dialog" timestamp="1611855748149">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1060" y="256" key="extract.method.dialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611855748149" />
+    <state x="-1253" y="253" width="585" height="592" key="find.popup" timestamp="1611867668709">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1253" y="253" width="585" height="592" key="find.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611867668709" />
+    <state x="667" y="253" width="1110" height="637" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611825621031" />
+    <state x="-1323" y="140" key="new project wizard" timestamp="1611273488850">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1323" y="140" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611273488850" />
+  </component>
+</project>
